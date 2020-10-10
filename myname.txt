@@ -1,57 +1,58 @@
 **Add your Name here**
-Dipak Gautam
-Ankit Adhikari
-Saugat Adhikari
-Sandesh Sharma
-Arjun Adhikari
-Bigyan Timilsina
-[Suman Sharma](https://github.com/CrackerSuman)
-Suman Pandit
-Baijanath Tharu
-Prajjawal Sahu
-Sijan Paudel
-Shishir Devkota
-Ashim Gautam
-Saurav Sunar
-Hello Ji
-Tanvi
-Dhruvil Shah
-Vidhi Angrish
-Aaditya Kshetri
-Arjun Adhikari
-Arjun Adhikari 
-Binayak Pokhrel
-Mandeep Thapa
-[Kunal Sah](https://github.com/Kunalsah29)
-Sandesh Timilsina
-Nikish Subedi
-Ashish Khatri
-Asmit Dhakal
-Sadikshya Sharma
-Bigyan Rijal
-Bibek Bhusal
-Pratikshya Poudel
-Nabin Bhandari
-Sandip Sapkota
-Rojen Maharjan
-Bigyan Poudel
-Dhurba Baral
-Shankar Kharel
-Maheshwor Acharya
-Saugat Rajbhandari
-Bibek Bhusal
-[Kamiben](https://github.com/kamiben)
-Ekraj Ghimire
-Saugat Rajbhandari
-Sheershak Raj Gautam
-[Muhammad Tri Anwarruddin](https://github.com/anwareset)
-Raj nayak
-Karuna Shrestha
-Ramesh Sharma
-Akrity Pant (https://github.com/Aacrity)
-Ramesh Sharma
-Verm024
-Maxime Morize
-Nishant Sapkota
-Subham Choudhary
-[Ruzan Tandukar](https://github.com/ruzzan)
+
+1. Aaditya Kshetri
+2. Akrity Pant (https://github.com/Aacrity)
+3. Ankit Adhikari
+4. Arjun Adhikari
+5. Arjun Adhikari
+6. Arjun Adhikari 
+7. Ashim Gautam
+8. Ashish Khatri
+9. Asmit Dhakal
+10. Baijanath Tharu
+11. Bibek Bhusal
+12. Bibek Bhusal
+13. Bigyan Poudel
+14. Bigyan Rijal
+15. Bigyan Timilsina
+16. Binayak Pokhrel
+17. Dhruvil Shah
+18. Dhurba Baral
+19. Dipak Gautam(https://github.com/dpakgtm07)
+20. Ekraj Ghimire
+21. Hello Ji
+22. Kamiben(https://github.com/kamiben)
+23. Karuna Shrestha
+24. Kunal Sah(https://github.com/Kunalsah29)
+25. Maheshwor Acharya
+26. Mandeep Thapa
+27. Maxime Morize
+28. Muhammad Tri Anwarruddin (https://github.com/anwareset)
+29. Nabin Bhandari
+30. Nikish Subedi
+31. Nishant Sapkota
+32. Prajjawal Sahu
+33. Pratikshya Poudel
+34. Raj nayak
+35. Ramesh Sharma
+36. Ramesh Sharma
+37. Rojen Maharjan
+38. Ruzan Tandukar (https://github.com/ruzzan)
+39. Sadikshya Sharma
+40. Sandesh Sharma
+41. Sandesh Timilsina
+42. Sandip Sapkota
+43. Saugat Adhikari
+44. Saugat Rajbhandari
+45. Saugat Rajbhandari
+46. Saurav Sunar
+47. Shankar Kharel
+48. Suman Sharma(https://github.com/CrackerSuman)
+49. Sheershak Raj Gautam
+50. Shishir Devkota
+51. Sijan Paudel
+52. Subham Choudhary
+53. Suman Pandit
+54. Tanvi
+55. Verm024
+56. Vidhi Angrish
