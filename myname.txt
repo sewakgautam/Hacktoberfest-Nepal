@@ -54,5 +54,6 @@ Maxime Morize
 Nishant Sapkota
 Subham Choudhary
 [Ruzan Tandukar](https://github.com/ruzzan)
+[Rahul Dahal](https://github.com/rahuldahal)
 Apil Acharya
 Sachin Kumar Mehta
