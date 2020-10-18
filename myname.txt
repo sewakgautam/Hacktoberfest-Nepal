@@ -46,6 +46,7 @@ Sadikshya Sharma
 Sandesh Sharma
 Sandesh Timilsina
 Sandip Sapkota
+Shri
 Saugat Adhikari
 Saugat Rajbhandari
 Saugat Rajbhandari
@@ -65,3 +66,4 @@ Saroj Aryal (Joerush :- www.sarojaryal.com.np)
 Prabidhi Timilsina
 Niruddya Samarasinghe
 Sabbu Giri (https://github.com/sabbugiri)
+Shrijal Shrestha
