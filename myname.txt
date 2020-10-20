@@ -71,6 +71,7 @@ Sanjay S
 Manav
 mukul Shrestha 
 Neeraj Lamsal
+Sujan Parajuli (https://github.com/sujanp100)
 Rewan Gautam (https://github.com/gtmray)
 Shuvam Adhikari
 Pradhan Agni
